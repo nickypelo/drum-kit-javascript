@@ -1,0 +1,26 @@
+html{
+    box-sizing: border-box;
+    margin: 0;
+    background-image: url(../images/MetallicaCovers.jpg);
+    background-color: #000;
+    opacity: 78%;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.demo{
+    background-color: black ;
+}
+
+div{
+    width: 70px;
+    height: 70px;
+    /* background-image: url(../images/kick.jpg); */
+    background-color: aliceblue;
+    margin-bottom: 20px;
+    
+}
